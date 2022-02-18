@@ -1,4 +1,4 @@
-# GrocerySalesForecasting
+# Grocery Sales Forecasting
 
 The topic of our project is sales forecasting which falls in the realm of time-series forecasting. The main objective of this project is to predict the unit sales for a variety of products sold by Corporación Favorita, an Ecuadorian-based grocery retailer.  
 
