@@ -44,7 +44,7 @@ Stores -  a list of stores, with columns for location , type, and cluster. Type 
 
 Oil - Daily oil prices. As ecuadors economy is dependent on oil this helps us explore the relationship between oil prices and grocery sales. It is important to note that the consumer is unaffected by these fluctuations as gas prices in Ecuador where subsidized throughout the time frame of this data. 
 
-Items - A listing of each item sold in the stores (with an item number, not a name), the “family” (grocery, cleaning, bakery, and others), class (unclear what this means) and whether or not the item is perishable. We’re using a subset of items for the analysis to reduce memory requirements.
+Items - A listing of each item sold in the stores (with an item number, not a name), the “family” (grocery, cleaning, bakery, and others), class (unclear what this means) and whether or not the item is perishable.
 
 
 Additional Notes
