@@ -15,7 +15,7 @@ Initial data import, cleanup, and overview
 
 Exploratory Data Analysis 
 
-Identyfying optimal model based on gathered data and objective 
+Identifying optimal model based on gathered data and objective 
 
 Model Development
 
