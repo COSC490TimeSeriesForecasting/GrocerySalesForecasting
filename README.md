@@ -27,7 +27,7 @@ Model evaluation and comparison
 
 The data from this project was obtained via a kaggle competition. The data is comprised of 7 datasets
 
-Url: https://www.kaggle.com/c/store-sales-time-series-forecasting/data
+Url: https://www.kaggle.com/c/favorita-grocery-sales-forecasting/overview
 
 Train data - Sales, date ,store item , also contains information regarding whether the item was on sale and if it was on sale when it was sold. Data ranges from Jan 1, 2013 - Aug 15, 2017
 
