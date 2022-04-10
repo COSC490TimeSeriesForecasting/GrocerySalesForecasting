@@ -22,7 +22,6 @@ Model Development
 Model evaluation and comparison
 
 
-
 ## Data 
 
 The data from this project was obtained via a kaggle competition. The data is comprised of 7 datasets
