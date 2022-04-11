@@ -3,6 +3,7 @@
 
 - 'eda.ipynb' and 'Data_Overview_Cleaning_EDA.ipynb' contain the inital EDA and exploration
 - 'data_pipeline.ipynb merges the data and outputs a sample of the dataset. 
+-  'EDA_Using_Final_Sample.ipynb' eda on unit sales after merging data.
 
 
 
